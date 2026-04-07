@@ -1,4 +1,4 @@
-public class Program {
+public class Inheritance {
   public interface IShape {
     public String name();
 
