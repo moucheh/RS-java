@@ -3,7 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class Zadatak1 {
+public class MagicSquare {
   public static boolean checkMagic(ArrayList<ArrayList<Integer>> s) {
     int sum = 0;
 
